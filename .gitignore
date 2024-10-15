@@ -2,3 +2,11 @@
 /.conda/
 /.venv/
 /myenv/
+/intel-extension-for-pytorch/
+/llvm-project/
+
+
+profiler*
+retina*
+compile*
+ver*
