@@ -4,7 +4,8 @@
 /myenv/
 /intel-extension-for-pytorch/
 /llvm-project/
-
+/llvm-release/
+/torch-ccl/
 
 profiler*
 retina*
