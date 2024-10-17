@@ -8,7 +8,8 @@
 /torch-ccl/
 /log_dir/
 /oneCCL/
-
+/build/
+/focal_loss_extension.egg-info/
 
 profiler*
 retina*
