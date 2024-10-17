@@ -6,6 +6,9 @@
 /llvm-project/
 /llvm-release/
 /torch-ccl/
+/log_dir/
+/oneCCL/
+
 
 profiler*
 retina*
